@@ -19,14 +19,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecode&theme=chartreuse-dark" alt="my github stats" width="100%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecode&theme=radical" alt="my github stats" width="100%"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecode&theme=chartreuse-dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecode&theme=radical&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliecode&theme=chartreuse-dark&layout=compact" alt="languages" width="100%" height="100%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliecode&theme=radical&layout=compact" alt="languages" width="100%" height="100%">
   
   </td>
 </tr>
@@ -45,7 +45,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><b>Technologies</b> </h1></summary>
+    <summary><h1 style="display: inline-block"><b>Technologies</b>👩‍💻 </h1></summary>
   </ul>
 </div>
 <!--tech stack icons-->
