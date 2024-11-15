@@ -20,8 +20,10 @@
 <td width="50%" align="center">
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecode&theme=radical" alt="my github stats" width="100%"/>
+  <!---
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecode&theme=radical&hide_border=false" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecode&theme=radical&hide_border=false" />
+  -->
 </td>
 
 <td width="50%" align="center">
