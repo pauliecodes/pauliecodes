@@ -4,7 +4,7 @@
   
 </p>
 
-- 🖥️ Full Stack Developer & Computer Science Graduate
+- 🖥️ Frontend Developer working at CODIN IT
 - 🙇‍♀️ Connect with me!👉[My linkedIn account](https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/)👈 <a href="https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/" target="_blank"></a>
 - 🙋‍♀️ Learn more about me with my Portfolio! ----> <a href="https://paulagotor.com/" target="_blank"> Here! </a> 
 
