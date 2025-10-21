@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,nodejs,nextjs,nestjs,nuxtjs,html,css,bootstrap,tailwind,git,gitlab,github,docker,java,kotlin,maven,php,laravel,symfony,postgresql,mysql,postman,linux,windows,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nuxtjs,nodejs,html,css,bootstrap,tailwind,unocss,git,gitlab,github,bitbucket,docker,java,kotlin,maven,postgresql,linux,windows,apple&perline=14" />
   </a>
 </p>
 
