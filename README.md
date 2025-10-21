@@ -18,16 +18,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecode&theme=radical" alt="my github stats" width="100%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecodes&theme=radical" alt="my github stats" width="100%"/>
   <!---
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecode&theme=radical&hide_border=false" />
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecodes&theme=radical&hide_border=false" />
   -->
 </td>
 
 <td width="50%" align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliecode&theme=radical&layout=compact" alt="languages" width="100%" height="100%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliecodes&theme=radical&layout=compact" alt="languages" width="100%" height="100%">
   
   </td>
 </tr>
@@ -35,7 +35,7 @@
 
 <div align=center style="margin-bottom:6rem">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=pauliecode&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=pauliecodes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <br></br>
@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nuxtjs,nodejs,html,css,bootstrap,tailwind,unocss,git,gitlab,github,bitbucket,docker,java,kotlin,maven,postgresql,linux,windows,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nuxtjs,nodejs,html,css,bootstrap,tailwind,git,gitlab,github,bitbucket,docker,java,kotlin,maven,postgresql,linux,windows,apple&perline=14" />
   </a>
 </p>
 
