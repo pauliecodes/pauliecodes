@@ -6,7 +6,6 @@
 
 - 🖥️ Frontend Developer working at CODIN IT
 - 🙇‍♀️ Connect with me!👉[My linkedIn account](https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/)👈 <a href="https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/" target="_blank"></a>
-- 🙋‍♀️ Learn more about me with my Portfolio! ----> <a href="https://paulagotor.com/" target="_blank"> Here! </a> 
 
 - ![](https://komarev.com/ghpvc/?username=pauliecode)
 
@@ -63,6 +62,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Made by :  [pauliecode](https://github.com/pauliecode)
+Made by :  [pauliecode](https://github.com/pauliecodes)
 
 Last Edited on: 29/10/2024
