@@ -21,10 +21,3 @@ I've always loved building and creating, and recently I've been diving deep into
     <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,nodejs,git,github,docker,postgresql&perline=10" alt="Tech Stack"/>
   </a>
 </p>
-
-
-### <kbd>04</kbd> GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauliecodes&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=4b5563&icon_color=111827" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauliecodes&layout=compact&theme=transparent&hide_border=true&title_color=111827&text_color=4b5563" height="150" alt="Top Languages" />
-</p>
