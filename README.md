@@ -1,67 +1,30 @@
-<h1 align="center"><b>Hi , I'm Paula </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi, I'm Paula.</h1>
 
-<p align="center">
-  
+<p align="left">
+  <i>Software developer. Fan of Open Source. Passionate about building tools that help others.</i>
 </p>
 
-- 🖥️ Frontend Developer working at CODIN IT
-- 🙇‍♀️ Connect with me!👉[My linkedIn account](https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/)👈 <a href="https://www.linkedin.com/in/paula-alemany-gotor-3705641b8/" target="_blank"></a>
 
-- ![](https://komarev.com/ghpvc/?username=pauliecode)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
- <h1 align="center"><b>Statistics</b></h1>
+### <kbd>01</kbd> Currently
+- 💻 Frontend Developer at **CODIN IT**
+- 🌐 Contributing to **[npmx.dev](https://npmx.dev)**
+- ✍️ Writing about tech and open source on my new blog
+- 📍 Based in Flensburg, Germany
 
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pauliecodes&theme=radical" alt="my github stats" width="100%"/>
-  <!---
-  <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pauliecodes&theme=radical&hide_border=false" />
-  -->
-</td>
+### <kbd>02</kbd> About Me
+I've always loved building and creating, and recently I've been diving deep into Open Source and the AT Protocol. I love the challenge of building local-first tools that actually help people and developers. When I'm away from the keyboard, you can find me running, nerding out over aviation, gaming, or listening to *Hamilton* for the 600th time.
 
-<td width="50%" align="center">
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pauliecodes&theme=radical&layout=compact" alt="languages" width="100%" height="100%">
-  
-  </td>
-</tr>
-</table>
-
-<!-- <div align=center style="margin-bottom:6rem">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=pauliecodes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div> -->
-<br></br>
-
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block"><b>Technologies</b>👩‍💻 </h1></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+### <kbd>03</kbd> Technologies
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nuxtjs,nodejs,html,css,bootstrap,tailwind,git,gitlab,github,bitbucket,docker,java,kotlin,maven,postgresql,linux,windows,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,nodejs,git,github,docker,postgresql&perline=10" alt="Tech Stack"/>
   </a>
 </p>
 
 
-<p align="center" ><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFyeDNqczJ3dzk0dHhvaTUxNXU1OGpuMWprOGUybmRyM3B4dTYydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25UxpWoNBu8nOtURm9/giphy.webp" width="350px"></p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-Made by :  [pauliecode](https://github.com/pauliecodes)
-
-Last Edited on: 29/10/2024
+### <kbd>04</kbd> GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pauliecodes&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=4b5563&icon_color=111827" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauliecodes&layout=compact&theme=transparent&hide_border=true&title_color=111827&text_color=4b5563" height="150" alt="Top Languages" />
+</p>
