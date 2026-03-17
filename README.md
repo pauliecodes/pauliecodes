@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm Paula.</h1>
 
-<p align="left">
-  <i>Software developer. Fan of Open Source. Passionate about building tools that help others.</i>
-</p>
-
 
 ### <kbd>01</kbd> Currently
 - 💻 Frontend Developer at **CODIN IT**
