@@ -9,7 +9,7 @@
 
 
 ### <kbd>02</kbd> About Me
-I've always loved building and creating, and recently I've been diving deep into Open Source and the AT Protocol. I love the challenge of building local-first tools that actually help people and developers. When I'm away from the keyboard, you can find me running, nerding out over aviation, gaming, or listening to *Hamilton* for the 600th time.
+I've always loved building and creating, and recently I've been diving deep into Open Source and the AT Protocol. I love the challenge of building tools that actually help people and developers. When I'm away from the keyboard, you can find me running, nerding out over aviation, gaming, or listening to *Hamilton* for the 600th time.
 
 ### <kbd>03</kbd> Technologies
 <p align="left">
