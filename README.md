@@ -14,6 +14,6 @@ I've always loved building and creating, and recently I've been diving deep into
 ### <kbd>03</kbd> Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,nodejs,git,github,docker,postgresql&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nuxtjs,tailwind,nodejs,git,github,docker,postgresql&perline=10" alt="Tech Stack"/>
   </a>
 </p>
